@@ -4,7 +4,7 @@ cd /workspace
 
 apt-get update && apt-get install -y git
 
-git clone https://${GITHUB_TOKEN}@github.com/FraimeApp/ProcessingService
+git clone https://feschenko:${GITHUB_TOKEN}@github.com/FraimeApp/ProcessingService
 
 cd /workspace/ProcessingService
 
