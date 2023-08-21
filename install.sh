@@ -10,4 +10,4 @@ source venv/bin/activate
 
 venv/bin/pip install -r requirements.txt
 
-venv/bin/python3.10 run_processing.py
+venv/bin/python3.10 /workspace/ProcessingService/run_processing.py
